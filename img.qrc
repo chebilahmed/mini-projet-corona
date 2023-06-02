@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>img/home.png</file>
+    <file>img/reload.png</file>
+    <file>img\affichage.png</file>
+    <file>img\listes.png</file>
+    <file>img\personnes.png</file>
+    <file>img\download.png</file>
+    <file>img\parametre.png</file>
+    <file>img\men.png</file>
+    <file>img\women.png</file>
+  </qresource>
+</RCC>
